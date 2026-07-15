@@ -6,12 +6,13 @@
 
 # Visit My Website
 
-<img width="549" height="548" alt="IMG_2096" src="https://github.com/user-attachments/assets/ba036775-d9e8-49d0-a827-bfd6a95397c7" 
-  />
+<img width="598" height="640" alt="IMG_2098" src="https://github.com/user-attachments/assets/4a8250ea-d3a3-4e44-8016-e329fa0d1f51" />
+
 
   # My Github
 
-  <img width="575" height="574" alt="IMG_2097" src="https://github.com/user-attachments/assets/6f0f7dec-e72f-4797-bdc6-24f7835a61ed" />
+<img width="615" height="613" alt="IMG_2099" src="https://github.com/user-attachments/assets/d3673acf-b709-4537-be78-1aff7d637042" />
+
 
 ---
 
