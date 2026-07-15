@@ -1,6 +1,7 @@
 # Rick Roll QR Code
 
-<img width="1024" height="1024" alt="IMG_2095" src="https://github.com/user-attachments/assets/950e63d4-e570-4acd-b134-21edd14d1470" />
+<img width="630" height="633" alt="IMG_2105" src="https://github.com/user-attachments/assets/585340a1-9b74-4a75-a004-5dc3be5ac98f" />
+
 
 
 
